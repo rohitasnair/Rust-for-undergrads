@@ -10,7 +10,7 @@ fn read_int() -> i32 {
         .parse::<i32>()
         .unwrap()
 }
-/
+
 fn main() {
     println!("\n");
     println!("\tAddition of Two Numbers in Rust");
